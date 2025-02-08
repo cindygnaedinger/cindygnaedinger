@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cindygnaedinger
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Front-End Projects
+- 🌱 I’m currently learning Java Spring
+- 💞️ I’m looking to collaborate on Full Stack projects
 - 📫 How to reach me cyn.gnaedinger@gmail.com
 
 <!---
