@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cindygnaedinger
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on Data Analysis projects
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Data Analysis/Data Engineering projects
 - 📫 How to reach me cyn.gnaedinger@gmail.com
 
 <!---
